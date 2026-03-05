@@ -5,12 +5,36 @@
     <link>https://d-maurya.github.io/publication/</link>
       <atom:link href="https://d-maurya.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://d-maurya.github.io/img/deepak_dp.jpg</url>
       <title>Publications</title>
       <link>https://d-maurya.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Robust Estimation of a Sparse Linear Model - Provable Guarantees with Non-convexity</title>
+      <link>https://d-maurya.github.io/publication/aistats2026_sparse_lm/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://d-maurya.github.io/publication/aistats2026_sparse_lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Solutions of the Inner Optimization Problem of Adversarial Robustness</title>
+      <link>https://d-maurya.github.io/publication/icassp2025_adv_training/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://d-maurya.github.io/publication/icassp2025_adv_training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partial Inference in Structured Prediction</title>
+      <link>https://d-maurya.github.io/publication/icassp2025_partial_inference/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://d-maurya.github.io/publication/icassp2025_partial_inference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ARX Model Identification using Generalized Spectral Decomposition</title>
