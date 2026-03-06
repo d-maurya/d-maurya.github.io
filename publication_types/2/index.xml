@@ -5,12 +5,36 @@
     <link>https://d-maurya.github.io/publication_types/2/</link>
       <atom:link href="https://d-maurya.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://d-maurya.github.io/img/deepak_dp.jpg</url>
       <title>2</title>
       <link>https://d-maurya.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>A Theoretical Study of The Effects of Adversarial Attacks on Sparse Regression</title>
+      <link>https://d-maurya.github.io/publication/tmlr2024_adv_sparse/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://d-maurya.github.io/publication/tmlr2024_adv_sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypergraph Partitioning using Tensor Eigenvalue Decomposition</title>
+      <link>https://d-maurya.github.io/publication/plosone2023_hypart/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://d-maurya.github.io/publication/plosone2023_hypart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Errors-in-Variables ARX Models Using Modified Dynamic Iterative PCA</title>
+      <link>https://d-maurya.github.io/publication/franklin2022_arx_eiv/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://d-maurya.github.io/publication/franklin2022_arx_eiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal Filtering and Residual Analysis in Errors-in-Variables Model Identification</title>
